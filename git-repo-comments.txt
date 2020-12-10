@@ -1,5 +1,6 @@
-git add <filename>
 git init
+git add <filename>
 git status
 git commit -m "Comments"
 git diff <filename>
+git log <filename>
